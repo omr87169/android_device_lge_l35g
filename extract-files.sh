@@ -3,7 +3,7 @@
 VENDOR=lge
 DEVICE=l35g
 
-BASE=../../../vendor/$VENDOR/$DEVICE/proprietary
+BASE=../vendor/$VENDOR/$DEVICE/proprietary
 rm -rf $BASE/*
 
 for FILE in `cat proprietary-files.txt | grep -v ^# | grep -v ^$`; do
