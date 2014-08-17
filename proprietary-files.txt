@@ -1,5 +1,5 @@
-lib/hw/lights.msm7x27a.so
-lib/hw/sensors.e0.so
+lib/hw/lights.msm7k.so
+lib/hw/sensors.default.so
 bin/sensord
 lib/egl/libGLESv2_adreno200.so
 lib/egl/libGLESv1_CM_adreno200.so
@@ -15,7 +15,6 @@ lib/libmmjpeg.so
 lib/libmmipl.so
 lib/liboemcamera.so
 lib/libchromatix_hi542_preview.so
-lib/hw/camera.msm7x27a.so
 etc/firmware/wlan/volans/WCN1314_cfg.dat
 etc/firmware/wlan/volans/WCN1314_qcom_wlan_nv.bin
 etc/firmware/wlan/volans/WCN1314_qcom_fw.bin
