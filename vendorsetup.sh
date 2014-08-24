@@ -1,1 +1,1 @@
-add_lunch_combo arearom_l35g-userdebug
+add_lunch_combo cm_l35g-userdebug
