@@ -1,6 +1,7 @@
 lib/hw/lights.msm7k.so
 lib/hw/sensors.default.so
 bin/sensord
+lib/egl/egl.cfg
 lib/egl/libGLESv2_adreno200.so
 lib/egl/libGLESv1_CM_adreno200.so
 lib/egl/libEGL_adreno200.so
@@ -13,6 +14,7 @@ lib/libgsl.so
 lib/libsc-a2xx.so
 lib/libmmjpeg.so
 lib/libmmipl.so
+lib/libcamera.so
 lib/liboemcamera.so
 lib/libchromatix_hi542_preview.so
 etc/firmware/wlan/volans/WCN1314_cfg.dat
