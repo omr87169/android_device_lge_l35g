@@ -1,3 +1,4 @@
-      ----- AreaROM Device -----
+CyanogenMod LG Optimus Logic(l35g)
+==================================
 
-Device tree for the LG Optimus Logic
+CyanogenMod 11 device tree for the LG Optimus Logic
